@@ -35,7 +35,7 @@
 <p align="center"><img align="center" margine-top= "100" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitya-nb&show_icons=true&locale=en&layout=compact" alt="nitya-nb" /></p>
 
 <h3 align="left">Git profile Trophies:</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitya-nb" alt="nitya-nb" /></a> </p>
+<p align="center"> <a href="https://github.com/nitya-nb/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitya-nb" alt="nitya-nb" /></a> </p>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nitya-nb&show_icons=true&locale=en" alt="nitya-nb" /></p>
