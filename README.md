@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitya Baranwal</h1>
 <h3 align="center">Java Back-end Developer</h3>
-<img aling="center" width="100%" height="500"  alt = "coding" width = "500"  src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img aling="center" width="100%" height="500"  alt = "coding" width = "500"  src = "https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nitya-nb&label=Profile%20views&color=0e75b6&style=flat" alt="nitya-nb" /> </p>
 
