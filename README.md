@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📝 You can read my articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 You can read my articles on []()
 
 - 💬 Ask me about **Java, Spring Boot **
 
@@ -19,13 +19,13 @@
 
 - 📫 How to reach me **nityabaranwal1@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https:///]()
+- 👨‍💻 All of my projects are available at []()
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing](https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nitya-baranwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhasker-shrimali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nitya-baranwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitya-baranwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
