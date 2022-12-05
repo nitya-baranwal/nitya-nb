@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java, Spring Boot **
 
-- 📫 How to reach me [Nitya](nityabaranwal1@gmail.com)
+- 📫 How to reach me [nityabaranwal1@gmail.com](nityabaranwal1@gmail.com)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://nitya-nb.github.io/)
 
