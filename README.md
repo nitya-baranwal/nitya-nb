@@ -20,9 +20,9 @@
 
 - 📫 How to reach me **nityabaranwal1@gmail.com**
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 All of my projects are available at [https://nitya-nb.github.io/](Portfolio)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing](https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
