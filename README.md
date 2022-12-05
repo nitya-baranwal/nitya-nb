@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitya Baranwal</h1>
-<h4 align="center">I have no special talents, I am just passionately curious</h4>
+<h3 align="center">I have no special talents, I am just passionately curious</h3>
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Nitya+Baranwal!;Java+Back-end+Developer...;" style="width: 100%;">
 <h3 align="center">Java Back-end Developer</h3>
 <img aling="center" width="100%" height="500"  alt = "coding" width = "500"  src = "https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
