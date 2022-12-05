@@ -16,13 +16,11 @@
 
 - 💬 Ask me about **Java, Spring Boot **
 
+- 📫 How to reach me [Nitya](nityabaranwal1@gmail.com)
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://nitya-nb.github.io/)
 
-- 📫 How to reach me **nityabaranwal1@gmail.com**
-
-- 👨‍💻 All of my projects are available at [https://nitya-nb.github.io/](Portfolio)
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WAeiQ5hguidkZ92SXXHIOwbZLCOt9nLu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
