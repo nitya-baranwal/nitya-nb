@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 📝 You can read my articles on []()
-
 - 💬 Ask me about **Java, Spring Boot **
 
 - 📫 How to reach me [nityabaranwal1@gmail.com](nityabaranwal1@gmail.com)
